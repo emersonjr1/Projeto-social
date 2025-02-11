@@ -41,8 +41,9 @@ iframe#tela{
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
-    height: 471px;
+    width: 268px;
+    height: 472px;
+    border-radius: 1%;
 }   
 
 section#redes-sociais {
